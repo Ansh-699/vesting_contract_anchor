@@ -1,6 +1,6 @@
 ## Vesting Logic
 
-![Vesting Flow](./image.png)
+![Vesting Flow](./public/image.png)
 
 The diagram above shows the vesting flow:
 
